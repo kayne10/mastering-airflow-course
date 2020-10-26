@@ -2956,3 +2956,87 @@ File Path                                                                       
 /Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                           1.01s           2020-10-26T02:45:32
 /Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py                                           1.01s           2020-10-26T02:45:36
 ================================================================================
+[2020-10-25 20:46:08,412] {dag_processing.py:1006} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                                    PID  Runtime    Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------------  -------------------
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                       0.99s           2020-10-26T02:46:07
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/docker_copy_data.py                                           0.99s           2020-10-26T02:46:03
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_bash_operator.py                                      0.99s           2020-10-26T02:46:03
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_pig_operator.py                                       0.99s           2020-10-26T02:46:07
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_http_operator.py                    79237  0.00s      1.00s           2020-10-26T02:45:59
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                    1.00s           2020-10-26T02:46:01
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_xcom.py                                               1.00s           2020-10-26T02:46:05
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only.py                      79236  0.00s      1.00s           2020-10-26T02:45:59
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_target_dag.py                                 1.00s           2020-10-26T02:46:00
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py                                    1.00s           2020-10-26T02:46:01
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_short_circuit_operator.py                             1.00s           2020-10-26T02:46:05
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/test_utils.py                                                 1.00s           2020-10-26T02:46:08
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_operator.py                                    1.01s           2020-10-26T02:46:04
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_controller_dag.py                             1.01s           2020-10-26T02:46:06
+/Users/troy/Github/courses/mastering-apache-airflow/code/dags/my_first_dag.py                                                                                                1.01s           2020-10-26T02:45:50
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_python_operator.py                                    1.01s           2020-10-26T02:46:08
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/subdags/subdag.py                                             1.01s           2020-10-26T02:46:02
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/tutorial.py                                                   1.01s           2020-10-26T02:46:00
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_docker_operator.py                                    1.01s           2020-10-26T02:46:04
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py                                           1.01s           2020-10-26T02:46:06
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                           1.01s           2020-10-26T02:46:02
+================================================================================
+[2020-10-25 20:46:38,482] {dag_processing.py:1006} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                                    PID  Runtime    Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------------  -------------------
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_http_operator.py                    79333  0.00s      0.99s           2020-10-26T02:46:29
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_target_dag.py                                 0.99s           2020-10-26T02:46:30
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                       0.99s           2020-10-26T02:46:37
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only.py                      79332  0.00s      0.99s           2020-10-26T02:46:29
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                    0.99s           2020-10-26T02:46:31
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_pig_operator.py                                       0.99s           2020-10-26T02:46:37
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/docker_copy_data.py                                           0.99s           2020-10-26T02:46:33
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py                                    0.99s           2020-10-26T02:46:31
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_bash_operator.py                                      1.00s           2020-10-26T02:46:33
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_xcom.py                                               1.00s           2020-10-26T02:46:35
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_short_circuit_operator.py                             1.00s           2020-10-26T02:46:35
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/test_utils.py                                                 1.00s           2020-10-26T02:46:38
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/tutorial.py                                                   1.00s           2020-10-26T02:46:20
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/subdags/subdag.py                                             1.00s           2020-10-26T02:46:32
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_operator.py                                    1.00s           2020-10-26T02:46:34
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_controller_dag.py                             1.00s           2020-10-26T02:46:36
+/Users/troy/Github/courses/mastering-apache-airflow/code/dags/my_first_dag.py                                                                                                1.01s           2020-10-26T02:46:30
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_python_operator.py                                    1.01s           2020-10-26T02:46:38
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                           1.01s           2020-10-26T02:46:32
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_docker_operator.py                                    1.01s           2020-10-26T02:46:34
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py                                           1.01s           2020-10-26T02:46:36
+================================================================================
+[2020-10-25 20:47:08,554] {dag_processing.py:1006} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                                    PID  Runtime    Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------------  -------------------
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                       0.99s           2020-10-26T02:47:07
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/docker_copy_data.py                                           0.99s           2020-10-26T02:47:03
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                    0.99s           2020-10-26T02:47:01
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_pig_operator.py                                       0.99s           2020-10-26T02:47:07
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py                                    0.99s           2020-10-26T02:47:01
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_bash_operator.py                                      0.99s           2020-10-26T02:47:03
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_xcom.py                                               1.00s           2020-10-26T02:47:05
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_http_operator.py                    79415  0.00s      1.00s           2020-10-26T02:46:59
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_short_circuit_operator.py                             1.00s           2020-10-26T02:47:05
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_target_dag.py                                 1.00s           2020-10-26T02:47:00
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only.py                      79414  0.00s      1.00s           2020-10-26T02:46:59
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_branch_operator.py                                    1.00s           2020-10-26T02:47:04
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/test_utils.py                                                 1.00s           2020-10-26T02:47:08
+/Users/troy/Github/courses/mastering-apache-airflow/code/dags/my_first_dag.py                                                                                                1.00s           2020-10-26T02:46:50
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/subdags/subdag.py                                             1.00s           2020-10-26T02:47:02
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/tutorial.py                                                   1.01s           2020-10-26T02:47:00
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_docker_operator.py                                    1.01s           2020-10-26T02:47:04
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_trigger_controller_dag.py                             1.01s           2020-10-26T02:47:06
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_python_operator.py                                    1.01s           2020-10-26T02:47:08
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                           1.01s           2020-10-26T02:47:02
+/Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py                                           1.01s           2020-10-26T02:47:06
+================================================================================
