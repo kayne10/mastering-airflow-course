@@ -1,6 +1,6 @@
 from airflow import DAG
 from datetime import datetime, timedelta
-from airflow.operators import MyFirstOperator
+from airflow.operators import MyFirstOperator, MyFirstSensor
 
 
 default_args = {
@@ -20,5 +20,8 @@ dag = DAG(dag_id='my_first_dag',
 
 task1 = MyFirstOperator(task_id='first_task', param='some random text', dag=dag)
 
-task1
+# task 2 breaks the dag due to unknown keyword arguments 
+task2 = MyFirstSensor(task_id='second_task', poke_interval=30, dag=dag)
 
+# task2 >> task1
+task1
