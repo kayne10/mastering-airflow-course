@@ -1,0 +1,18 @@
+[2020-10-29 22:38:08,381] {taskinstance.py:620} INFO - Dependencies all met for <TaskInstance: my_first_dag.first_task 2020-10-30T03:00:00+00:00 [queued]>
+[2020-10-29 22:38:08,397] {taskinstance.py:620} INFO - Dependencies all met for <TaskInstance: my_first_dag.first_task 2020-10-30T03:00:00+00:00 [queued]>
+[2020-10-29 22:38:08,398] {taskinstance.py:838} INFO - 
+--------------------------------------------------------------------------------
+[2020-10-29 22:38:08,398] {taskinstance.py:839} INFO - Starting attempt 1 of 4
+[2020-10-29 22:38:08,398] {taskinstance.py:840} INFO - 
+--------------------------------------------------------------------------------
+[2020-10-29 22:38:08,445] {taskinstance.py:859} INFO - Executing <Task(MyFirstOperator): first_task> on 2020-10-30T03:00:00+00:00
+[2020-10-29 22:38:08,445] {base_task_runner.py:133} INFO - Running: ['airflow', 'run', 'my_first_dag', 'first_task', '2020-10-30T03:00:00+00:00', '--job_id', '16', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/my_first_dag.py', '--cfg_path', '/var/folders/0y/m3by_n_d0c5bh83d1lvcfl8m0000gn/T/tmpeba36qv3']
+[2020-10-29 22:38:09,177] {base_task_runner.py:115} INFO - Job 16: Subtask first_task /Users/troy/Github/courses/mastering-apache-airflow/code/venv/lib/python3.7/site-packages/airflow/configuration.py:627: DeprecationWarning: You have two airflow.cfg files: /Users/troy/airflow/airflow.cfg and /Users/troy/Github/courses/mastering-apache-airflow/code/airflow.cfg. Airflow used to look at ~/airflow/airflow.cfg, even when AIRFLOW_HOME was set to a different value. Airflow will now only read /Users/troy/Github/courses/mastering-apache-airflow/code/airflow.cfg, and you should remove the other file
+[2020-10-29 22:38:09,178] {base_task_runner.py:115} INFO - Job 16: Subtask first_task   category=DeprecationWarning,
+[2020-10-29 22:38:09,249] {base_task_runner.py:115} INFO - Job 16: Subtask first_task [2020-10-29 22:38:09,249] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=22637
+[2020-10-29 22:38:09,454] {base_task_runner.py:115} INFO - Job 16: Subtask first_task [2020-10-29 22:38:09,453] {__init__.py:51} INFO - Using executor LocalExecutor
+[2020-10-29 22:38:10,123] {base_task_runner.py:115} INFO - Job 16: Subtask first_task [2020-10-29 22:38:10,122] {dagbag.py:90} INFO - Filling up the DagBag from /Users/troy/Github/courses/mastering-apache-airflow/code/dags/my_first_dag.py
+[2020-10-29 22:38:10,233] {base_task_runner.py:115} INFO - Job 16: Subtask first_task [2020-10-29 22:38:10,233] {cli.py:516} INFO - Running <TaskInstance: my_first_dag.first_task 2020-10-30T03:00:00+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2020-10-29 22:38:10,326] {logging_mixin.py:95} INFO - [[34m2020-10-29 22:38:10,324[0m] {[34mmy_plugin.py:[0m36} INFO[0m - None[0m
+[2020-10-29 22:38:10,327] {logging_mixin.py:95} INFO - [[34m2020-10-29 22:38:10,326[0m] {[34mmy_plugin.py:[0m37} INFO[0m - some random text[0m
+[2020-10-29 22:38:13,360] {logging_mixin.py:95} INFO - [[34m2020-10-29 22:38:13,360[0m] {[34mlocal_task_job.py:[0m105} INFO[0m - Task exited with return code 0[0m
