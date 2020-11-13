@@ -1,0 +1,156 @@
+[2020-11-09 04:00:29,829] {logging_mixin.py:95} INFO - [2020-11-09 04:00:29,829] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=251
+[2020-11-09 04:00:29,835] {scheduler_job.py:146} INFO - Started process (PID=251) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:29,844] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:00:29,847] {logging_mixin.py:95} INFO - [2020-11-09 04:00:29,846] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:29,880] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:29,960] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.125 seconds
+[2020-11-09 04:00:50,025] {logging_mixin.py:95} INFO - [2020-11-09 04:00:50,025] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=451
+[2020-11-09 04:00:50,033] {scheduler_job.py:146} INFO - Started process (PID=451) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:50,041] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:00:50,042] {logging_mixin.py:95} INFO - [2020-11-09 04:00:50,042] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:50,059] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:00:50,100] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.066 seconds
+[2020-11-09 04:01:10,256] {logging_mixin.py:95} INFO - [2020-11-09 04:01:10,255] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=651
+[2020-11-09 04:01:10,266] {scheduler_job.py:146} INFO - Started process (PID=651) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:10,274] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:01:10,278] {logging_mixin.py:95} INFO - [2020-11-09 04:01:10,277] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:10,299] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:10,357] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.091 seconds
+[2020-11-09 04:01:30,538] {logging_mixin.py:95} INFO - [2020-11-09 04:01:30,537] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=851
+[2020-11-09 04:01:30,549] {scheduler_job.py:146} INFO - Started process (PID=851) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:30,553] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:01:30,554] {logging_mixin.py:95} INFO - [2020-11-09 04:01:30,554] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:30,574] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:30,619] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.070 seconds
+[2020-11-09 04:01:50,814] {logging_mixin.py:95} INFO - [2020-11-09 04:01:50,814] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1051
+[2020-11-09 04:01:50,825] {scheduler_job.py:146} INFO - Started process (PID=1051) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:50,829] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:01:50,830] {logging_mixin.py:95} INFO - [2020-11-09 04:01:50,830] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:50,846] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:01:50,893] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.068 seconds
+[2020-11-09 04:02:11,074] {logging_mixin.py:95} INFO - [2020-11-09 04:02:11,073] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1251
+[2020-11-09 04:02:11,083] {scheduler_job.py:146} INFO - Started process (PID=1251) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:11,087] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:02:11,089] {logging_mixin.py:95} INFO - [2020-11-09 04:02:11,088] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:11,106] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:11,153] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.071 seconds
+[2020-11-09 04:02:31,386] {logging_mixin.py:95} INFO - [2020-11-09 04:02:31,386] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1451
+[2020-11-09 04:02:31,395] {scheduler_job.py:146} INFO - Started process (PID=1451) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:31,400] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:02:31,401] {logging_mixin.py:95} INFO - [2020-11-09 04:02:31,401] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:31,419] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:31,465] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.070 seconds
+[2020-11-09 04:02:51,639] {logging_mixin.py:95} INFO - [2020-11-09 04:02:51,639] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1651
+[2020-11-09 04:02:51,651] {scheduler_job.py:146} INFO - Started process (PID=1651) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:51,655] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:02:51,656] {logging_mixin.py:95} INFO - [2020-11-09 04:02:51,656] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:51,671] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:02:51,710] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.059 seconds
+[2020-11-09 04:03:11,902] {logging_mixin.py:95} INFO - [2020-11-09 04:03:11,901] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1851
+[2020-11-09 04:03:11,917] {scheduler_job.py:146} INFO - Started process (PID=1851) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:11,926] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:03:11,928] {logging_mixin.py:95} INFO - [2020-11-09 04:03:11,928] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:11,948] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:11,994] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.077 seconds
+[2020-11-09 04:03:32,260] {logging_mixin.py:95} INFO - [2020-11-09 04:03:32,259] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2051
+[2020-11-09 04:03:32,270] {scheduler_job.py:146} INFO - Started process (PID=2051) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:32,274] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:03:32,275] {logging_mixin.py:95} INFO - [2020-11-09 04:03:32,275] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:32,292] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:32,339] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.069 seconds
+[2020-11-09 04:03:52,522] {logging_mixin.py:95} INFO - [2020-11-09 04:03:52,521] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2251
+[2020-11-09 04:03:52,532] {scheduler_job.py:146} INFO - Started process (PID=2251) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:52,536] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:03:52,537] {logging_mixin.py:95} INFO - [2020-11-09 04:03:52,537] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:52,553] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:03:52,602] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.070 seconds
+[2020-11-09 04:05:34,892] {logging_mixin.py:95} INFO - [2020-11-09 04:05:34,891] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=163
+[2020-11-09 04:05:34,904] {scheduler_job.py:146} INFO - Started process (PID=163) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:34,917] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:05:34,919] {logging_mixin.py:95} INFO - [2020-11-09 04:05:34,919] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:34,942] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:34,995] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.091 seconds
+[2020-11-09 04:05:45,975] {logging_mixin.py:95} INFO - [2020-11-09 04:05:45,973] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=272
+[2020-11-09 04:05:45,982] {scheduler_job.py:146} INFO - Started process (PID=272) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:45,999] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:05:46,001] {logging_mixin.py:95} INFO - [2020-11-09 04:05:46,001] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:46,025] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:46,083] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.101 seconds
+[2020-11-09 04:05:56,082] {logging_mixin.py:95} INFO - [2020-11-09 04:05:56,082] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=373
+[2020-11-09 04:05:56,091] {scheduler_job.py:146} INFO - Started process (PID=373) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:56,096] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:05:56,097] {logging_mixin.py:95} INFO - [2020-11-09 04:05:56,097] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:56,121] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:05:56,170] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.079 seconds
+[2020-11-09 04:06:06,220] {logging_mixin.py:95} INFO - [2020-11-09 04:06:06,219] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=473
+[2020-11-09 04:06:06,228] {scheduler_job.py:146} INFO - Started process (PID=473) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:06,232] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:06,233] {logging_mixin.py:95} INFO - [2020-11-09 04:06:06,233] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:06,250] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:06,296] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.069 seconds
+[2020-11-09 04:06:16,330] {logging_mixin.py:95} INFO - [2020-11-09 04:06:16,330] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=573
+[2020-11-09 04:06:16,338] {scheduler_job.py:146} INFO - Started process (PID=573) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:16,342] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:16,343] {logging_mixin.py:95} INFO - [2020-11-09 04:06:16,343] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:16,358] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:16,396] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.058 seconds
+[2020-11-09 04:06:26,479] {logging_mixin.py:95} INFO - [2020-11-09 04:06:26,478] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=673
+[2020-11-09 04:06:26,486] {scheduler_job.py:146} INFO - Started process (PID=673) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:26,490] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:26,491] {logging_mixin.py:95} INFO - [2020-11-09 04:06:26,491] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:26,507] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:26,556] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.070 seconds
+[2020-11-09 04:06:36,601] {logging_mixin.py:95} INFO - [2020-11-09 04:06:36,600] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=773
+[2020-11-09 04:06:36,611] {scheduler_job.py:146} INFO - Started process (PID=773) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:36,614] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:36,616] {logging_mixin.py:95} INFO - [2020-11-09 04:06:36,616] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:36,633] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:36,686] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.075 seconds
+[2020-11-09 04:06:46,769] {logging_mixin.py:95} INFO - [2020-11-09 04:06:46,767] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=873
+[2020-11-09 04:06:46,790] {scheduler_job.py:146} INFO - Started process (PID=873) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:46,800] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:46,803] {logging_mixin.py:95} INFO - [2020-11-09 04:06:46,802] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:46,839] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:46,899] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.109 seconds
+[2020-11-09 04:06:56,914] {logging_mixin.py:95} INFO - [2020-11-09 04:06:56,913] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=973
+[2020-11-09 04:06:56,929] {scheduler_job.py:146} INFO - Started process (PID=973) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:56,934] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:06:56,935] {logging_mixin.py:95} INFO - [2020-11-09 04:06:56,935] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:56,953] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:06:57,005] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.076 seconds
+[2020-11-09 04:07:07,041] {logging_mixin.py:95} INFO - [2020-11-09 04:07:07,040] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1073
+[2020-11-09 04:07:07,059] {scheduler_job.py:146} INFO - Started process (PID=1073) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:07,068] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:07,070] {logging_mixin.py:95} INFO - [2020-11-09 04:07:07,070] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:07,095] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:07,148] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.089 seconds
+[2020-11-09 04:07:17,180] {logging_mixin.py:95} INFO - [2020-11-09 04:07:17,180] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1172
+[2020-11-09 04:07:17,188] {scheduler_job.py:146} INFO - Started process (PID=1172) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:17,191] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:17,193] {logging_mixin.py:95} INFO - [2020-11-09 04:07:17,193] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:17,210] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:17,250] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.062 seconds
+[2020-11-09 04:07:27,312] {logging_mixin.py:95} INFO - [2020-11-09 04:07:27,311] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1273
+[2020-11-09 04:07:27,325] {scheduler_job.py:146} INFO - Started process (PID=1273) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:27,332] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:27,333] {logging_mixin.py:95} INFO - [2020-11-09 04:07:27,333] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:27,351] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:27,398] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.073 seconds
+[2020-11-09 04:07:37,443] {logging_mixin.py:95} INFO - [2020-11-09 04:07:37,442] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1373
+[2020-11-09 04:07:37,454] {scheduler_job.py:146} INFO - Started process (PID=1373) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:37,460] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:37,461] {logging_mixin.py:95} INFO - [2020-11-09 04:07:37,461] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:37,479] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:37,534] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.080 seconds
+[2020-11-09 04:07:47,570] {logging_mixin.py:95} INFO - [2020-11-09 04:07:47,570] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1473
+[2020-11-09 04:07:47,577] {scheduler_job.py:146} INFO - Started process (PID=1473) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:47,581] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:47,583] {logging_mixin.py:95} INFO - [2020-11-09 04:07:47,583] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:47,600] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:47,651] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.074 seconds
+[2020-11-09 04:07:57,740] {logging_mixin.py:95} INFO - [2020-11-09 04:07:57,740] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1573
+[2020-11-09 04:07:57,749] {scheduler_job.py:146} INFO - Started process (PID=1573) to work on /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:57,754] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/branching.py for tasks to queue
+[2020-11-09 04:07:57,755] {logging_mixin.py:95} INFO - [2020-11-09 04:07:57,755] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:57,771] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['branching']) retrieved from /usr/local/airflow/dags/branching.py
+[2020-11-09 04:07:57,822] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/branching.py took 0.073 seconds

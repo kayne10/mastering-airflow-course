@@ -1,0 +1,234 @@
+[2020-11-04 06:36:39,343] {logging_mixin.py:95} INFO - [2020-11-04 06:36:39,343] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=221
+[2020-11-04 06:36:39,356] {scheduler_job.py:146} INFO - Started process (PID=221) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:39,373] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:36:39,375] {logging_mixin.py:95} INFO - [2020-11-04 06:36:39,375] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:39,392] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:39,439] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.083 seconds
+[2020-11-04 06:36:50,425] {logging_mixin.py:95} INFO - [2020-11-04 06:36:50,424] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=331
+[2020-11-04 06:36:50,430] {scheduler_job.py:146} INFO - Started process (PID=331) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:50,439] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:36:50,440] {logging_mixin.py:95} INFO - [2020-11-04 06:36:50,440] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:50,455] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:36:50,517] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.087 seconds
+[2020-11-04 06:37:00,557] {logging_mixin.py:95} INFO - [2020-11-04 06:37:00,557] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=431
+[2020-11-04 06:37:00,577] {scheduler_job.py:146} INFO - Started process (PID=431) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:00,588] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:00,591] {logging_mixin.py:95} INFO - [2020-11-04 06:37:00,590] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:00,614] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:00,668] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.091 seconds
+[2020-11-04 06:37:10,765] {logging_mixin.py:95} INFO - [2020-11-04 06:37:10,765] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=531
+[2020-11-04 06:37:10,777] {scheduler_job.py:146} INFO - Started process (PID=531) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:10,788] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:10,790] {logging_mixin.py:95} INFO - [2020-11-04 06:37:10,790] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:10,815] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:10,863] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.086 seconds
+[2020-11-04 06:37:20,875] {logging_mixin.py:95} INFO - [2020-11-04 06:37:20,873] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=631
+[2020-11-04 06:37:20,883] {scheduler_job.py:146} INFO - Started process (PID=631) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:20,888] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:20,889] {logging_mixin.py:95} INFO - [2020-11-04 06:37:20,889] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:20,905] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:20,956] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.073 seconds
+[2020-11-04 06:37:31,003] {logging_mixin.py:95} INFO - [2020-11-04 06:37:31,002] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=731
+[2020-11-04 06:37:31,015] {scheduler_job.py:146} INFO - Started process (PID=731) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:31,022] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:31,024] {logging_mixin.py:95} INFO - [2020-11-04 06:37:31,024] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:31,044] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:31,088] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.073 seconds
+[2020-11-04 06:37:41,146] {logging_mixin.py:95} INFO - [2020-11-04 06:37:41,146] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=831
+[2020-11-04 06:37:41,153] {scheduler_job.py:146} INFO - Started process (PID=831) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:41,157] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:41,158] {logging_mixin.py:95} INFO - [2020-11-04 06:37:41,158] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:41,170] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:41,219] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.065 seconds
+[2020-11-04 06:37:51,232] {logging_mixin.py:95} INFO - [2020-11-04 06:37:51,232] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=931
+[2020-11-04 06:37:51,240] {scheduler_job.py:146} INFO - Started process (PID=931) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:51,245] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:37:51,246] {logging_mixin.py:95} INFO - [2020-11-04 06:37:51,246] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:51,258] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:37:51,307] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.066 seconds
+[2020-11-04 06:38:01,380] {logging_mixin.py:95} INFO - [2020-11-04 06:38:01,379] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1031
+[2020-11-04 06:38:01,388] {scheduler_job.py:146} INFO - Started process (PID=1031) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:01,392] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:01,393] {logging_mixin.py:95} INFO - [2020-11-04 06:38:01,393] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:01,406] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:01,460] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.072 seconds
+[2020-11-04 06:38:11,522] {logging_mixin.py:95} INFO - [2020-11-04 06:38:11,521] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1131
+[2020-11-04 06:38:11,532] {scheduler_job.py:146} INFO - Started process (PID=1131) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:11,537] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:11,539] {logging_mixin.py:95} INFO - [2020-11-04 06:38:11,539] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:11,564] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:11,617] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.085 seconds
+[2020-11-04 06:38:21,630] {logging_mixin.py:95} INFO - [2020-11-04 06:38:21,630] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1231
+[2020-11-04 06:38:21,637] {scheduler_job.py:146} INFO - Started process (PID=1231) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:21,641] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:21,643] {logging_mixin.py:95} INFO - [2020-11-04 06:38:21,643] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:21,653] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:21,699] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.062 seconds
+[2020-11-04 06:38:31,779] {logging_mixin.py:95} INFO - [2020-11-04 06:38:31,777] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1331
+[2020-11-04 06:38:31,795] {scheduler_job.py:146} INFO - Started process (PID=1331) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:31,799] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:31,800] {logging_mixin.py:95} INFO - [2020-11-04 06:38:31,800] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:31,813] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:31,856] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.062 seconds
+[2020-11-04 06:38:41,919] {logging_mixin.py:95} INFO - [2020-11-04 06:38:41,919] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1431
+[2020-11-04 06:38:41,929] {scheduler_job.py:146} INFO - Started process (PID=1431) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:41,933] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:41,935] {logging_mixin.py:95} INFO - [2020-11-04 06:38:41,935] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:41,946] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:41,992] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.062 seconds
+[2020-11-04 06:38:52,001] {logging_mixin.py:95} INFO - [2020-11-04 06:38:52,000] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1531
+[2020-11-04 06:38:52,010] {scheduler_job.py:146} INFO - Started process (PID=1531) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:52,015] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:38:52,016] {logging_mixin.py:95} INFO - [2020-11-04 06:38:52,016] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:52,028] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:38:52,075] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.065 seconds
+[2020-11-04 06:39:02,119] {logging_mixin.py:95} INFO - [2020-11-04 06:39:02,118] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1631
+[2020-11-04 06:39:02,134] {scheduler_job.py:146} INFO - Started process (PID=1631) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:02,141] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:02,142] {logging_mixin.py:95} INFO - [2020-11-04 06:39:02,142] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:02,157] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:02,209] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.074 seconds
+[2020-11-04 06:39:12,235] {logging_mixin.py:95} INFO - [2020-11-04 06:39:12,234] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1731
+[2020-11-04 06:39:12,244] {scheduler_job.py:146} INFO - Started process (PID=1731) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:12,248] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:12,249] {logging_mixin.py:95} INFO - [2020-11-04 06:39:12,249] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:12,263] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:12,312] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.068 seconds
+[2020-11-04 06:39:22,353] {logging_mixin.py:95} INFO - [2020-11-04 06:39:22,352] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1831
+[2020-11-04 06:39:22,363] {scheduler_job.py:146} INFO - Started process (PID=1831) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:22,367] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:22,368] {logging_mixin.py:95} INFO - [2020-11-04 06:39:22,368] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:22,381] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:22,433] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.071 seconds
+[2020-11-04 06:39:32,502] {logging_mixin.py:95} INFO - [2020-11-04 06:39:32,502] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1931
+[2020-11-04 06:39:32,511] {scheduler_job.py:146} INFO - Started process (PID=1931) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:32,515] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:32,516] {logging_mixin.py:95} INFO - [2020-11-04 06:39:32,516] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:32,528] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:32,575] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.065 seconds
+[2020-11-04 06:39:42,665] {logging_mixin.py:95} INFO - [2020-11-04 06:39:42,664] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2031
+[2020-11-04 06:39:42,684] {scheduler_job.py:146} INFO - Started process (PID=2031) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:42,688] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:42,689] {logging_mixin.py:95} INFO - [2020-11-04 06:39:42,689] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:42,711] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:42,762] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.078 seconds
+[2020-11-04 06:39:52,765] {logging_mixin.py:95} INFO - [2020-11-04 06:39:52,765] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2131
+[2020-11-04 06:39:52,776] {scheduler_job.py:146} INFO - Started process (PID=2131) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:52,780] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:39:52,781] {logging_mixin.py:95} INFO - [2020-11-04 06:39:52,781] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:52,794] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:39:52,842] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.066 seconds
+[2020-11-04 06:40:02,914] {logging_mixin.py:95} INFO - [2020-11-04 06:40:02,914] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2231
+[2020-11-04 06:40:02,924] {scheduler_job.py:146} INFO - Started process (PID=2231) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:02,931] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:02,932] {logging_mixin.py:95} INFO - [2020-11-04 06:40:02,932] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:02,950] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:03,001] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.076 seconds
+[2020-11-04 06:40:13,063] {logging_mixin.py:95} INFO - [2020-11-04 06:40:13,062] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2331
+[2020-11-04 06:40:13,072] {scheduler_job.py:146} INFO - Started process (PID=2331) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:13,076] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:13,077] {logging_mixin.py:95} INFO - [2020-11-04 06:40:13,077] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:13,089] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:13,132] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.060 seconds
+[2020-11-04 06:40:23,153] {logging_mixin.py:95} INFO - [2020-11-04 06:40:23,152] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2431
+[2020-11-04 06:40:23,171] {scheduler_job.py:146} INFO - Started process (PID=2431) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:23,175] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:23,176] {logging_mixin.py:95} INFO - [2020-11-04 06:40:23,176] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:23,189] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:23,245] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.074 seconds
+[2020-11-04 06:40:33,298] {logging_mixin.py:95} INFO - [2020-11-04 06:40:33,298] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2531
+[2020-11-04 06:40:33,308] {scheduler_job.py:146} INFO - Started process (PID=2531) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:33,312] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:33,313] {logging_mixin.py:95} INFO - [2020-11-04 06:40:33,313] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:33,326] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:33,372] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.064 seconds
+[2020-11-04 06:40:43,453] {logging_mixin.py:95} INFO - [2020-11-04 06:40:43,453] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2631
+[2020-11-04 06:40:43,462] {scheduler_job.py:146} INFO - Started process (PID=2631) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:43,467] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:43,468] {logging_mixin.py:95} INFO - [2020-11-04 06:40:43,468] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:43,479] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:43,517] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.055 seconds
+[2020-11-04 06:40:53,562] {logging_mixin.py:95} INFO - [2020-11-04 06:40:53,562] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2731
+[2020-11-04 06:40:53,572] {scheduler_job.py:146} INFO - Started process (PID=2731) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:53,577] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:40:53,579] {logging_mixin.py:95} INFO - [2020-11-04 06:40:53,579] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:53,593] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:40:53,638] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.066 seconds
+[2020-11-04 06:41:03,696] {logging_mixin.py:95} INFO - [2020-11-04 06:41:03,696] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2831
+[2020-11-04 06:41:03,705] {scheduler_job.py:146} INFO - Started process (PID=2831) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:03,708] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:03,710] {logging_mixin.py:95} INFO - [2020-11-04 06:41:03,710] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:03,721] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:03,760] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.055 seconds
+[2020-11-04 06:41:13,814] {logging_mixin.py:95} INFO - [2020-11-04 06:41:13,814] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=2931
+[2020-11-04 06:41:13,832] {scheduler_job.py:146} INFO - Started process (PID=2931) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:13,836] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:13,837] {logging_mixin.py:95} INFO - [2020-11-04 06:41:13,837] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:13,849] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:13,895] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.063 seconds
+[2020-11-04 06:41:23,899] {logging_mixin.py:95} INFO - [2020-11-04 06:41:23,899] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=3031
+[2020-11-04 06:41:23,910] {scheduler_job.py:146} INFO - Started process (PID=3031) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:23,916] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:23,918] {logging_mixin.py:95} INFO - [2020-11-04 06:41:23,918] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:23,933] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:24,009] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.099 seconds
+[2020-11-04 06:41:34,074] {logging_mixin.py:95} INFO - [2020-11-04 06:41:34,073] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=3131
+[2020-11-04 06:41:34,081] {scheduler_job.py:146} INFO - Started process (PID=3131) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:34,086] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:34,089] {logging_mixin.py:95} INFO - [2020-11-04 06:41:34,089] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:34,103] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:34,152] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.071 seconds
+[2020-11-04 06:41:44,233] {logging_mixin.py:95} INFO - [2020-11-04 06:41:44,232] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=3231
+[2020-11-04 06:41:44,239] {scheduler_job.py:146} INFO - Started process (PID=3231) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:44,244] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:44,245] {logging_mixin.py:95} INFO - [2020-11-04 06:41:44,245] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:44,258] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:44,302] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.063 seconds
+[2020-11-04 06:41:54,342] {logging_mixin.py:95} INFO - [2020-11-04 06:41:54,342] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=3331
+[2020-11-04 06:41:54,349] {scheduler_job.py:146} INFO - Started process (PID=3331) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:54,354] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:41:54,355] {logging_mixin.py:95} INFO - [2020-11-04 06:41:54,355] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:54,369] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:41:54,419] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.070 seconds
+[2020-11-04 06:42:04,497] {logging_mixin.py:95} INFO - [2020-11-04 06:42:04,496] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=3431
+[2020-11-04 06:42:04,502] {scheduler_job.py:146} INFO - Started process (PID=3431) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:42:04,506] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:42:04,508] {logging_mixin.py:95} INFO - [2020-11-04 06:42:04,508] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:42:04,519] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:42:04,561] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.059 seconds
+[2020-11-04 06:43:00,117] {logging_mixin.py:95} INFO - [2020-11-04 06:43:00,117] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=202
+[2020-11-04 06:43:00,123] {scheduler_job.py:146} INFO - Started process (PID=202) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:00,131] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:00,132] {logging_mixin.py:95} INFO - [2020-11-04 06:43:00,132] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:00,150] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:00,220] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.097 seconds
+[2020-11-04 06:43:11,256] {logging_mixin.py:95} INFO - [2020-11-04 06:43:11,255] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=312
+[2020-11-04 06:43:11,275] {scheduler_job.py:146} INFO - Started process (PID=312) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:11,292] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:11,294] {logging_mixin.py:95} INFO - [2020-11-04 06:43:11,294] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:11,314] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:11,371] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.096 seconds
+[2020-11-04 06:43:21,334] {logging_mixin.py:95} INFO - [2020-11-04 06:43:21,333] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=412
+[2020-11-04 06:43:21,351] {scheduler_job.py:146} INFO - Started process (PID=412) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:21,358] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:21,359] {logging_mixin.py:95} INFO - [2020-11-04 06:43:21,359] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:21,379] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:21,444] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.094 seconds
+[2020-11-04 06:43:31,471] {logging_mixin.py:95} INFO - [2020-11-04 06:43:31,471] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=512
+[2020-11-04 06:43:31,479] {scheduler_job.py:146} INFO - Started process (PID=512) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:31,483] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:31,484] {logging_mixin.py:95} INFO - [2020-11-04 06:43:31,484] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:31,495] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:31,544] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.064 seconds
+[2020-11-04 06:43:41,595] {logging_mixin.py:95} INFO - [2020-11-04 06:43:41,594] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=612
+[2020-11-04 06:43:41,606] {scheduler_job.py:146} INFO - Started process (PID=612) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:41,615] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:41,617] {logging_mixin.py:95} INFO - [2020-11-04 06:43:41,616] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:41,630] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:41,680] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.074 seconds
+[2020-11-04 06:43:51,694] {logging_mixin.py:95} INFO - [2020-11-04 06:43:51,694] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=712
+[2020-11-04 06:43:51,703] {scheduler_job.py:146} INFO - Started process (PID=712) to work on /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:51,708] {scheduler_job.py:1520} INFO - Processing file /usr/local/airflow/dags/my_first_dag.py for tasks to queue
+[2020-11-04 06:43:51,709] {logging_mixin.py:95} INFO - [2020-11-04 06:43:51,709] {dagbag.py:90} INFO - Filling up the DagBag from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:51,721] {scheduler_job.py:1532} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /usr/local/airflow/dags/my_first_dag.py
+[2020-11-04 06:43:51,760] {scheduler_job.py:152} INFO - Processing /usr/local/airflow/dags/my_first_dag.py took 0.057 seconds
