@@ -1,9 +1,9 @@
 FROM python:3.7-stretch
 
-#Airflow
+# Airflow
 ENV AIRFLOW_HOME=/usr/local/airflow
 
-#Define en_US
+# Define en_US.
 ENV LANGUAGE en_US.UTF-8
 ENV LANG en_US.UTF-8
 ENV LC_ALL en_US.UTF-8
@@ -22,5 +22,5 @@ EXPOSE 8080
 
 RUN chmod u+x entrypoint.sh
 
-ENTRYPOINT [ "/usr/local/airflow/entrypoint.sh" ]
+ENTRYPOINT ["/usr/local/airflow/entrypoint.sh"]
 CMD ["webserver"]
