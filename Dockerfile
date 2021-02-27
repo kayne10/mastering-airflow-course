@@ -21,6 +21,7 @@ ENV PYTHONPATH=$PYTHONPATH:$AIRFLOW_HOME
 EXPOSE 8080
 
 RUN chmod u+x entrypoint.sh
+RUN chmod +x myairflow/scripts/etl/*.py
 
 ENTRYPOINT ["/usr/local/airflow/entrypoint.sh"]
 CMD ["webserver"]
