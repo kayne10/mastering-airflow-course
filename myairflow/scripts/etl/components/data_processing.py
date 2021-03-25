@@ -6,7 +6,7 @@ def do_something_to_json(raw_json, output_json):
     pass
 
 
-def processCSV(input, output):
+def process_lm_history_CSV(input, output):
     with open(input, 'r', encoding='utf-8') as input_file:
         df = pd.read_csv(input_file)
 
@@ -23,7 +23,7 @@ def processCSV(input, output):
 
 
 
-def processJSON(input, output):
+def process_awhere_JSON(input, output):
     with open(input, 'r', encoding='utf-8') as input_file, open(output, 'w', encoding='utf-8') as output_file:
         line = input_file.readline()
         while line:
